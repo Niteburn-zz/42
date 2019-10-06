@@ -1,0 +1,66 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    ft_debut.txt                                       :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: ccline <marvin@42.fr>                      +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2019/09/30 00:53:52 by ccline            #+#    #+#              #
+#    Updated: 2019/09/30 00:53:56 by ccline           ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+1. In the most concise way possible, answer this question, what is 42? How would you describe 42 to someone who doesn’t know what 42 is?
+
+42 is a tuition-free college-level programming school focused on project-based and peer-to-peer correction.
+
+2. Why are there no instructions on the initial 42 logic tests?
+
+It's a little test to see if that person has the right mindset to become a programmer at 42 by problem solving when there are no instructions.
+
+3. What are the core 42 principles?
+
+The core principles of 42 I believe is to learn by doing (project-based learning) and working with your peers. There are no teachers and it's good to ask people working along side you.
+
+4. If somebody is thinking of going to 42, but has no coding experience - do you really think it’s worth their time?
+
+Yes. It's always good to attempt to accomplish something even if someone is uncertain about it. Most of the cadets that I've talked to didn't know much about programming before either. Even if it doesn't work out, someone is likely to learn a lot of things about programming even if they fail.
+
+5. What makes 42 unique?
+
+There is no teachers at 42. The best tool you have to learn is by asking peers or finding it on the internet. This method of learning is very uncommon and 42 is one of the only schools that has this (in person).
+
+6. What do you think you’re learning the most at 42?
+
+I'm learning how to problem solve better. I don't want to be throw into a job not knowing how to solve a problem that hasn't been solved before. I want to be more creative.
+
+7. Imagine (this will happen very soon in real life!), you’ve been stuck on the problem for a while and have no idea what to do - what your next steps would be?
+
+I will first google the problem that I'm stuck on, maybe it's some simple mistake. I can then ask a peer in the lab to see if they can see any issues.
+
+8. How will you ensure that your personal level of motivation remains high on a daily basis to complete at least 1 level per month without the Piscine pressure and strict deadlines?
+
+I have a lot of self motivation since I just graduated high school. I want to have a good job before I turn 20. I want to learn as much as possible about programming.
+
+9. If someone asks you why it says internships are required on the 42 website, but they do not offer job placement, what would you say?
+
+42 requires internships because it provides a solid understanding of how the business world works. But completing the 42 program does not require getting a job.
+
+10. How do the internships work? Is it mandatory that you have to reach a certain level before leaving on an internship or can you validate it anytime you find one?
+
+Reaching level 7 will allow you to take on an internship because it's apart of the educational experience.
+
+11. How does 42 help you adapt to a work place?f
+
+It helps build your problem solving abilities and the ability to work with peers.
+
+Bonus. Find 5 cadets with at least level 5 and ask what project they are working on currently
+Elijah (elmiller) - He is working on ft_ls which recreates the ls command in UNIX
+ 
+Alex (asarandi) - He was working on a project that required him to find the fastest solution to a Rubix cube.
+
+Enzo (ensurdam) - Enzo was working on an alumni portal for alumni to connect with each other on the 42 network.
+
+Jenny (yijhuang) - She was working on a Machine learning Python Project
+
+Matthew (mmcarthu) - He just finished working on the PHP piscine and now is working on the ants project with the rooms
